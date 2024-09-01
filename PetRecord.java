@@ -1,4 +1,3 @@
-
 public class PetRecord {
     private String petId;
     private String petName;

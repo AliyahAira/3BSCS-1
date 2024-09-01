@@ -1,4 +1,4 @@
-public interface Pet{
-    public String makeSound();
-    public String play();
+public interface Pet {
+    String makeSound();
+    String play();
 }
